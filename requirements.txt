@@ -1,0 +1,8 @@
+backtesting==0.3.3
+yfinance==0.2.33
+pandas==2.2.1
+numpy==1.26.4
+matplotlib==3.8.3
+scipy==1.12.0
+statsmodels==0.14.1
+scikit-learn==1.4.2
