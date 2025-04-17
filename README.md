@@ -94,11 +94,11 @@ Mean-reversion strategy applied to two co-integrated stocks from the same sector
 
 ```
 .
-├── bollinger_strategy.py           # Bollinger Band with Trailing SL
-├── dual_class_arbitrage.py        # Class A vs Class C Arbitrage Strategy
-├── sector_pairs_trading.py        # Sector-based pairs trading (WIP)
-├── README.md                      # You're here!
-└── requirements.txt               # Python dependencies
+├── Bollinger_Band_Strategy.py           # Bollinger Band with Trailing SL
+├── Dual_Class_Arbitrage.py              # Class A vs Class C Arbitrage Strategy
+├── Sector_Based_Pairs_Trading.py        # Sector-based pairs trading (WIP)
+├── README.md                            # You're here!
+└── requirements.txt                     # Python dependencies
 ```
 
 ## Notes
