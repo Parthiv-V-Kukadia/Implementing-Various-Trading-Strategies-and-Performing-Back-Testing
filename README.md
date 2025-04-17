@@ -53,13 +53,16 @@ Mean-reversion strategy applied to two co-integrated stocks from the same sector
   python Sector_Based_Pairs_Trading.py
   ```
 
+
 ## Technologies Used
+
 - Python
 - `yfinance` – for historical stock data
 - `backtesting.py` – for strategy simulation
 - `matplotlib` – for data visualization
 - `numpy`, `pandas` – for computation and data wrangling
 - `statsmodels` – for cointegration test
+
 
 ## How to Run
 1. **Install dependencies**:
@@ -78,11 +81,14 @@ Mean-reversion strategy applied to two co-integrated stocks from the same sector
    - Stock ticker(s)
    - Date range (e.g., 2020-01-01 to 2024-12-31)
 
+
 ## Output
+
 - Backtest summary with key metrics (return, Sharpe ratio, etc.)
 - Trade logs (where applicable)
 - Interactive performance plots
 - Additional indicator plots (e.g., Z-scores)
+
 
 ## File Structure
 
